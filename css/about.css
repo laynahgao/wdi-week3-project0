@@ -1,0 +1,54 @@
+
+/*
+Project details
+=============================*/
+.project{
+    text-align: center;
+    display: block;
+    color: #d0b3cc;
+    padding: 30px;
+
+}
+
+.project-detail h1{
+    width: 100%;
+    letter-spacing: 0.6px;
+    text-shadow: 3px;
+    font-size: 60px;
+}
+
+.project-detail p{
+    width: 100%;
+    letter-spacing: 0.6px;
+    font-size: 20px;
+    padding: 0 50px;
+
+}
+
+.project-artical h2{
+    width: 100%;
+    letter-spacing: 0.6px;
+    font-size: 30px;
+}
+
+.project-title{
+  padding: 0;
+  margin: 1%;
+  border-radius: 2px;
+  flex: 1 200px;
+  height: auto;
+  text-align: center;
+  background: #fffafa;
+
+}
+
+.project-cube h1{
+  color: #d0b3cc;
+}
+.project img{
+  width: 50%;
+}
+/*
+layout
+========================*/
+

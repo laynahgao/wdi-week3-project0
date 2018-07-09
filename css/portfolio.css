@@ -1,0 +1,34 @@
+
+/*
+Project details
+=============================*/
+.project{
+    text-align: center;
+    display: block;
+   padding: 30px;
+
+
+}
+.project-detail{
+  padding: 40px;
+}
+.project-title{
+  padding: 0;
+  margin: 1%;
+  border-radius: 2px;
+  flex: 1 200px;
+  height: auto;
+  text-align: center;
+  background: #fffafa;
+  display: flex;
+  flex-direction: row;
+}
+.project-cube{
+  position: relative;
+  margin:5px;
+  background-color: white;
+
+}
+.project-cube h3{
+  color: #d0b3cc;
+}

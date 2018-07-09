@@ -1,0 +1,133 @@
+/*
+face part
+======================*/
+.social-head{
+  margin-top: -10px;
+  position: relative;
+  text-align: right;
+
+}
+.head-title{
+  position: absolute;
+  top:1em;
+  right: 5em;
+  font-size: 40px;
+  color:#d0b3cc;
+}
+.head-intro{
+  position: absolute;
+  top:7em;
+  right: 7em;
+  font-size: 25px;
+  color:#d0b3cc;
+}
+#facebook-links{
+  position: absolute;
+  top:300px;
+  right: 10em;
+}
+#linkedin-links{
+  position: absolute;
+  top:300px;
+  right: 20em;
+}
+#wechat-links{
+  position: absolute;
+  top:300px;
+  right: 30em;
+}
+#face-img{
+width: 100%;
+}
+
+/*
+social icon
+=============================*/
+.fa {
+  font-size: 60px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-wechat{
+  background: green;
+  color: white;
+}
+/*
+contact details
+=============================*/
+.contact{
+    text-align: center;
+}
+.contact-cube{
+  background-color: #fffafa;
+  padding-bottom: 10px;
+  padding: 40px;
+
+}
+.contact h2{
+  color: #d0b3cc;
+  letter-spacing: 0.6px;
+  text-shadow: 3px;
+}
+/*
+form
+=============================*/
+form{
+  display: -webkit-box;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+form button {
+  width: 100%;
+  border: 1px solid #d4a8a8;
+  padding-bottom: 8px;
+  font-size: 16px;
+  background-color: #d4a8a8;
+  color: white;
+}
+
+textarea {
+  width: 100%;
+  display: block;
+}
+
+input, textarea {
+  border: 1px solid #d4a8a8;
+  margin-bottom: 12px;
+  padding: 10px;
+  width: 100%;
+}
+/*
+media screen
+==========================*/
+@media screen and (max-width: 600px) {
+  #face-img{
+    display: none;
+  }
+#img-space{
+  margin: 25em;
+}
+#social-head{
+  padding-top: -20px;
+}
+}
+
+
+
+
