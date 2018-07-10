@@ -22,7 +22,7 @@ Project details
     text-shadow: 3px;
     font-size: 20px;
 }
-p{
+.project-detail p{
     width: 100%;
     letter-spacing: 0.6px;
     font-size: 20px;
@@ -50,11 +50,9 @@ p{
 .project-cube h1{
   color: #d0b3cc;
 }
-
 .project img{
   width: 50%;
 }
 /*
 layout
 ========================*/
-

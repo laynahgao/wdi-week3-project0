@@ -7,7 +7,3 @@ function myFunction() {
         x.className = "topnav";
     }
 };
-// prevent reload
-$("#prospects_form").submit(function(e) {
-    e.preventDefault();
-});

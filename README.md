@@ -3,6 +3,7 @@ Process/approach:
 1. Find the website style which I like it.
 2. use this web as the referece "http://www.adhamdannaway.com"
 3. Think of the lay out and content
+4. deleted the contact page and move contact info to the home page.
 
 Unsolved problems:
 1. On Contact page. There is the conflict with the class "fa"
@@ -10,4 +11,5 @@ Unsolved problems:
 
 Challenges:
 1.nav bar
+2. 
 
